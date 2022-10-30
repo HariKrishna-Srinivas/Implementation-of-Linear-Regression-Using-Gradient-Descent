@@ -91,15 +91,12 @@ print("For population = 35,000,we predict a profit of $"+str(round(predict1,0)))
 predict2=predict(np.array([1,7]),theta)*10000
 print("For population = 70,000,we predict a profit of $"+str(round(predict2,0)))
 ```
-
 ## Output:
 ![image](https://user-images.githubusercontent.com/94882905/194996668-523cefcf-7462-43b4-826f-4bd26709ef45.png)
 ![image](https://user-images.githubusercontent.com/94882905/194996690-6636e336-33f5-4abd-bb34-340e83cfe905.png)
 ![image](https://user-images.githubusercontent.com/94882905/194996726-b7ec9a6f-7a8f-4d81-baa5-67ce31dd2f5a.png)
 ![image](https://user-images.githubusercontent.com/94882905/194996746-5667e255-a94f-45a6-b8a3-f6753a0325a2.png)
 ![image](https://user-images.githubusercontent.com/94882905/194996764-9172c258-47e3-4c7e-af49-0702a3f8f2c4.png)
-
-
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
